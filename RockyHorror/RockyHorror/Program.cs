@@ -18,6 +18,10 @@ namespace RockyHorror
                 new DateTime(0,0,0,22,0,0),
                 new DateTime(0,0,0,0,0,1),
             };
+            showing.Comments = new List<string> 
+            {
+                "Great!", "Wow"
+            };
         }
     }
 }
